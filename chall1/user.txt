@@ -1,1 +1,5 @@
 PoC{PoC_W0rk$Hop,BrunoDeChezPoC}
+
+vol -f vmss.core windows.sessions.Sessions
+
+c'était les users des sessions
